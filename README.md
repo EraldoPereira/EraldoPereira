@@ -1,2 +1,3 @@
 - 👋 Eu sou @EraldoPereira
-- 👀 Estou interessado em JavaScript
+- 👀 Desenvolvedor web
+- 🖥️ ExtJs | C# | JavaScript
